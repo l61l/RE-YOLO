@@ -1,0 +1,7 @@
+train: E:/yolo/ultralytics-main_download/train/images
+val: E:/yolo/ultralytics-main_download/valid/images
+test: E:/yolo/ultralytics-main_download/test/images
+
+nc: 1
+names: ['Apple']
+
